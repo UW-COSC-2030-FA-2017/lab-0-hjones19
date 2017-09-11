@@ -1,0 +1,5 @@
+Some interesting facts I've learned in the last few days:
+
+1) The justices of the U.S. Supreme Court are the sole deciders of what cases the Court will hear.
+2) Git was invented by Linus Torvalds, who is most famous for inventing the Linux kernel
+3) Icebergs are made of fresh water. (Icebergs are glacier fragments that have fallen into the sea.)
